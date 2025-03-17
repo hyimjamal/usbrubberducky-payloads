@@ -1,0 +1,9 @@
+REM Author:HymJames, DUCKY SCRIPT WITH PYTHON SCRIPT TO SUPER POWER 
+DELAY 500
+HOTKEY GUI R
+DELAY 1000
+PRESS ENTER
+DELAY 1000
+STRING python3 SysInfo.py
+DELAY 400
+PRESS ENTER                                                        
